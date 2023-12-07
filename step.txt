@@ -1,0 +1,1 @@
+sudo apt install build-essential libncurses-dev libssl-dev libelf-dev bison flex -y
